@@ -1,8 +1,14 @@
 header{
     background-color: #2C3E50;
-    padding: 1em 0;
+    padding: .5em 0;
 }
 .ms_jumbo{
     background-color: #1ABC9C;
-    width: 100vh;
+    padding: 2em 0;
+}
+.ms_img{
+    width: 15%;
+}
+.ms_star{
+    margin: 0 1em;
 }
