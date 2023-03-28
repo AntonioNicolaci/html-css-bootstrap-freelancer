@@ -2,7 +2,7 @@ header{
     background-color: #2C3E50;
     padding: .5em 0;
 }
-.ms_jumbo{
+.ms_jumbo, .ms_about{
     background-color: #1ABC9C;
     padding: 2em 0;
 }
