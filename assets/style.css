@@ -1,25 +1,11 @@
-header{
+header, footer{
     background-color: #2C3E50;
-    padding: .5em 0;
 }
-.ms_jumbo, .ms_about{
+.ms_jumbo, .ms_about, .ms_button{
     background-color: #1ABC9C;
-    padding: 2em 0;
 }
 .ms_img{
     width: 15%;
-}
-.ms_star{
-    margin: 0 1em;
-}
-img{
-    width: 100%;
-}
-.ms_button{
-    background-color: #1ABC9C;
-}
-footer{
-    background-color: #2C3E50;
 }
 .ms_footer{
     background-color: #3A546D;
